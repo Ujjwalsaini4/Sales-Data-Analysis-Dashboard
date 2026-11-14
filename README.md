@@ -227,11 +227,11 @@ Through this project, I practiced:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Ujjwal Saini**
 
 Aspiring Data Analyst | Python | SQL | Data Visualization
 
-📌 GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
+📌 GitHub: [Your GitHub Profile](https://github.com/Ujjwalsaini4)
 
 ---
 
